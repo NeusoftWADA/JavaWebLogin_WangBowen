@@ -1,5 +1,5 @@
 # JavaWebLogin_WangBowen
-1.编写html文件\n
+1.编写html文件
 2.导入jdk
 3.创建web Application
 4.构建jar包
